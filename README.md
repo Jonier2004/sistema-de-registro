@@ -4,3 +4,4 @@ aprendiendo a usar commits , vscode , git and github
 
 para ejecutar el sistema debes poner :
 ````npm install react````
+sistema de registro 2
